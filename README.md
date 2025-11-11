@@ -3,4 +3,5 @@ Template project repository for DSCI-100
 1. Loaded players.csv and sessions.csv data set's into R
 2. Generated a specific question of interest focussing on the players.csv data set 
 3. Inspected the players.csv data
-4. Made a bar graph, histogram, and box plot to visualize my variables of interest relationships
+4. Made a bar graph, histogram, and box plot to visualize my variables of interest relationship
+5. Determined whether regresssion or classification was better suited to answer my research question
